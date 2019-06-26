@@ -66,6 +66,8 @@ npm run dev
 
 ### 前端依赖安装问题
 
+把npm源换成淘宝的：npm set registry https://registry.npm.taobao.org/
+
 如果出现以下错误，请单独安装 `npm install css-loader`，再安装项目依赖 `npm install`。
 
 ```bash
